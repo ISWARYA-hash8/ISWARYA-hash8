@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Eatoos-A food delivery App<br><br>🌱 I’m currently learning React.js<br><br>📫 How to reach me iswarya83p@gmail.com
+ 🔭 I’m currently working on a project--> Eatoos-A food delivery App<br><br>🌱 I’m currently learning React.js<br><br>📫 How to reach me iswarya83p@gmail.com
 
 
 # 💻 Tech Stack:
