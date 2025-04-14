@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
  # Quick Note About me :
-<h4>👋 Hello! I'm Iswarya — a passionate learner currently pursuing a degree in Electronics and Communication Engineering. I’m diving into the exciting world of development and debugging, constantly exploring new possibilities and sharpening my skills in the tech space.
-
+<h4>👋 Hello! I'm Iswarya — a passionate learner currently pursuing a degree in Electronics and Communication Engineering.
 <p>🎨 Passionate about crafting visually appealing websites with a catchy UI 
  <br>⚛️ Currently diving deep into frontend technologies, especially React JS
  </p> </h4>
