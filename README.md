@@ -5,7 +5,7 @@
 
 <p>🎨 Passionate about crafting visually appealing websites with a catchy UI 
  <br>⚛️ Currently diving deep into frontend technologies, especially React JS
-<br>🖌️ A sketching enthusiast — which fuels my creativity in designing responsive UIs </p> </h4>
+ </p> </h4>
 
 ## FunFact: 
 <h3>I’m the Mario of my coding journey — jumping over bugs, collecting knowledge coins, and leveling up every day!!!!!!</h3>
@@ -19,11 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ISWARYA-hash8&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ISWARYA-hash8&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ISWARYA-hash8&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=ISWARYA-hash8&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
