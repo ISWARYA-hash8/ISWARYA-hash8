@@ -4,11 +4,11 @@
 👋 Hello! I'm Iswarya — a passionate learner currently pursuing a degree in Electronics and Communication Engineering. I’m diving into the exciting world of development and debugging, constantly exploring new possibilities and sharpening my skills in the tech space.
 
 <p>🎨 Passionate about crafting visually appealing websites with a catchy UI 
-⚛️ Currently diving deep into frontend technologies, especially React JS
-🖌️ A sketching enthusiast — which fuels my creativity in designing responsive UIs </p>
+ <br>⚛️ Currently diving deep into frontend technologies, especially React JS
+<br>🖌️ A sketching enthusiast — which fuels my creativity in designing responsive UIs </p>
 
 ## FunFact: 
-<h1>I’m the Mario of my coding journey — jumping over bugs, collecting knowledge coins, and leveling up every day!!!!!!</h1>
+<h3>I’m the Mario of my coding journey — jumping over bugs, collecting knowledge coins, and leveling up every day!!!!!!</h3>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iswarya83p@gmail.com) 
