@@ -1,4 +1,4 @@
-<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQwY2N0ZnUydTdlOW9oanI3am40eGU0NGZsOTB0ZXozNzZmOGFmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 # 💫 About Me:
  🔭 I’m currently working on a project--> Eatoos-A food delivery App<br><br>🌱 I’m currently learning React.js<br><br>📫 How to reach me iswarya83p@gmail.com
